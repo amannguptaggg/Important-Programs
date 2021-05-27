@@ -1,0 +1,10 @@
+
+ --> Name: Aman | Total: 406.0 | Average: 81.2
+ --> Name: Rahul | Total: 384.0 | Average: 76.8
+ --> Name: Viraj | Total: 400.0 | Average: 80.0
+ --> Name: Swati | Total: 416.0 | Average: 83.2
+ --> Name: Ranuj | Total: 383.0 | Average: 76.6
+ --> Name: Deepak | Total: 340.0 | Average: 68.0
+ --> Name: Ayush | Total: 382.0 | Average: 76.4
+ --> Name: Shubham | Total: 416.0 | Average: 83.2
+ --> Name: Rohit | Total: 416.0 | Average: 83.2
